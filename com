@@ -1,1 +1,1 @@
-g++ -std=c++17 main.cpp -o main && ./main
+clang++ -std=c++20 main.cpp -o ps2 && ./ps2
