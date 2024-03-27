@@ -1,3 +1,9 @@
+#ifndef PARTICLE_HPP
+#define PARTICLE_HPP
+
+#include <iostream>
+#include <vector>
+
 class Particle {
 	private:
 		Vector pva;
@@ -65,3 +71,5 @@ class Particle {
 		std::vector<double> weakNuclearForce() { return {0, 0, 0}; }
 		std::vector<double> strongNuclearForce() { return {0, 0, 0}; }
 };
+
+#endif
