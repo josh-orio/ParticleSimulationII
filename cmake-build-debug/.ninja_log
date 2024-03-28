@@ -1,0 +1,9 @@
+# ninja log v5
+5	2493	1711637796080276126	build.ninja	a27a742526f6e8e8
+1	415	1711637734131614571	ps2_autogen/timestamp	5e481f06c729da6d
+1	415	1711637734131614571	ps2_autogen/mocs_compilation.cpp	5e481f06c729da6d
+1	415	1711637734131614571	/Users/joshorio/Work/ps2/cmake-build-debug/ps2_autogen/timestamp	5e481f06c729da6d
+416	564	1711637734333742258	CMakeFiles/ps2.dir/ps2_autogen/mocs_compilation.cpp.o	dfa7a54a7af4b482
+1	415	1711637734131614571	/Users/joshorio/Work/ps2/cmake-build-debug/ps2_autogen/mocs_compilation.cpp	5e481f06c729da6d
+415	9842	1711637743592913422	CMakeFiles/ps2.dir/main.cpp.o	fc8fa35c1f891c52
+9855	10282	1711637744049641790	ps2	f4e6a1040b336ebf

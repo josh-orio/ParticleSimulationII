@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ps2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ps2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ps2-Debug-b04751b2e73c698c0cb3.json",
+					"name" : "ps2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ps2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ps2_autogen-Debug-35934672d053534b822e.json",
+					"name" : "ps2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ps2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ps2_autogen_timestamp_deps-Debug-689f1b949b97dfdb4307.json",
+					"name" : "ps2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/joshorio/Work/ps2/cmake-build-debug",
+		"source" : "/Users/joshorio/Work/ps2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
